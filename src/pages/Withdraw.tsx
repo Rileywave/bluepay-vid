@@ -112,7 +112,7 @@ const Withdraw = () => {
         bpcCode: bpcCode.trim()
       });
 
-      if (validated.bpcCode !== "BPC55262527") {
+      if (validated.bpcCode !== "BPC5215336") {
         toast({
           variant: "destructive",
           description: "Invalid BPC code. Please enter a valid code.",
