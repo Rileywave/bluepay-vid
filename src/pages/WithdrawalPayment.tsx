@@ -16,8 +16,8 @@ const WithdrawalPayment = () => {
 
   const bluepayAccount = {
     bankName: "Moniepoint MFB",
-    accountNumber: "9040979580",
-    accountName: "BLESSING WILLIAMS"
+    accountNumber: "6709023538",
+    accountName: "OFORAH MATTHEW"
   };
 
   const paymentAmount = 13450;
